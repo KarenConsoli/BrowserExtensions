@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :194: for Floccus bookmark sync browser extension -->
+
+<folder id="2">
+  <title>Bookmarks Bar</title>
+  <bookmark href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=11&amp;ct=1362062230&amp;rver=6.1.6206.0&amp;wp=MBI&amp;wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx%3Fmkt%3Des-ar%26rru%3Dinbox&amp;lc=11274&amp;id=64855&amp;mkt=es-ar&amp;cbcxt=mai&amp;snsc=1" id="5">
+    <title></title>
+  </bookmark>
+  <bookmark href="http://www.smn.gov.ar/?mod=pron&amp;id=4&amp;provincia=Buenos%20Aires&amp;ciudad=Banfield" id="6">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="7">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://calendar.google.com/calendar/u/0/r?pli=1" id="8">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://web.whatsapp.com/" id="9">
+    <title>WhatsApp Web</title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/drive/my-drive" id="10">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/drive/folders/10NXzFxjXjBSce4pZDK1OWANrTL9IpQkJ" id="11">
+    <title>Resumes - Google Drive</title>
+  </bookmark>
+  <bookmark href="https://calendly.com/event_types/user/me" id="12">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://platform.torc.dev/#/dashboard" id="13">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513#redir_from_login_page" id="14">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://docs.google.com/document/u/0/?tgif=d" id="15">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://chat.openai.com/chat" id="16">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://app.slack.com/client/T0251M40W92/joiner-launchpad" id="17">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://quillbot.com/paraphrasing-tool" id="18">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://medium.com/" id="19">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://search.torc.dev/#/" id="20">
+    <title>Torc Search Tool</title>
+  </bookmark>
+  <folder id="21">
+    <title>UDESA</title>
+    <bookmark href="https://www.intelligentcareer.com/my/" id="25">
+      <title>Área personal</title>
+    </bookmark>
+    <bookmark href="https://lead.esade.edu/lead/web/previousexercises/futureideal/FutureIdealIndex.aspx" id="26">
+      <title>Esade Lead</title>
+    </bookmark>
+    <bookmark href="https://campusvirtual.udesa.edu.ar/login/index.php" id="27">
+      <title>Universidad de San Andrés - Campus Virtual: Entrar al sitio</title>
+    </bookmark>
+    <bookmark href="https://www.crunchbase.com/" id="28">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/drive/folders/1p7pxqdNQCpUNwPqkt9565Zd81RrkowCx" id="29">
+      <title>0-Introduccion a las Finanzas - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/in/ncaffetti/details/experience/" id="30">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://www.economia.gob.ar/onp/documentos/presutexto/proy2022/ley/pdf/anexo_estadistico/capitulo1/cap1pl14.pdf" id="31">
+      <title>vial</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/drive/folders/1qsntcXVPkXJXYsKix2vw80YB1vcNqTVb?hl=es" id="32">
+      <title>EMBA - Grupo 5 - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://www.ilovepdf.com/unlock_pdf" id="33">
+      <title>Unlock PDF files. Remove PDF password</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/online/" id="34">
+      <title>Free Text to Speech Online with Realistic AI Voices</title>
+    </bookmark>
+  </folder>
+  <folder id="22">
+    <title>Torc</title>
+    <folder id="35">
+      <title>Sierra</title>
+      <folder id="51">
+        <title>Screenings</title>
+        <bookmark href="https://docs.google.com/document/d/1s7Dbn48jk0ADC4JufeGrpaRd2PGYAyqxSCjNWJ__KFI/edit#heading=h.vqkthnv1jbqk" id="99">
+          <title>Sierra Lead Frontend Screening - Google Docs</title>
+        </bookmark>
+        <bookmark href="https://docs.google.com/document/d/1jHvP-yJ783LwDNg_bhdoAwvPEF2qJLxC9aIpqq-a9IM/edit#heading=h.gfl9bdpefqda" id="100">
+          <title>Sierra Frontend Screening - Google Docs</title>
+        </bookmark>
+        <bookmark href="https://docs.google.com/document/d/1RsdwZlMMHgc_27slPHCglvb_jAgY6KsAkVmQMm1bgxE/edit" id="101">
+          <title>Frontend Screening notes - Google Docs</title>
+        </bookmark>
+        <bookmark href="https://docs.google.com/document/d/1H1LsubYfFT6vdBYm8t1z9O8NqAFuzSOLKFa9hC2oKAk/edit" id="102">
+          <title>Cloud Database Admin Screening - Google Docs</title>
+        </bookmark>
+        <bookmark href="https://docs.google.com/document/d/1R4hHBM5x-9zmmottVACTAObSsLdMfI42-TzB9QDjiwM/edit#heading=h.vqkthnv1jbqk" id="103">
+          <title>Devops Screening - Google Docs</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://drive.google.com/drive/folders/1OgIwEcF2rNvXZQtSbsg0opSRUPKQNrqO" id="52">
+        <title>Candidates - Sierra - C# / .Net Lead - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/folders/1R6p0xZXA2cFyc3RTNbbVBqH1kntdPzzN" id="53">
+        <title>Sierra QA candidates - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1_K3MphqLmwQYxx2pC9_ZO0uS3ducKwJHN-sNVVceC9g/edit" id="54">
+        <title>Sierra Roles - Torc Control Version - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/u/0/folders/1THMgO05bHE3h0MfvA-eC2D19-qdVIs33" id="55">
+        <title>Sierra Lead FE Candidates - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/u/0/folders/1cf8ST0Yf6A0WYVIBw_J9TkQmvKjEPoOb" id="56">
+        <title>Database Sierra - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/presentation/u/1/d/1maePnw0AGFpobIDpqR0kdSgOnocaC4dhutlamFuUkR8/edit#slide=id.g28bef0399d5_0_211" id="57">
+        <title>Torc &lt;&gt; Sierra StandUp - Google Slides</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/u/0/folders/1pcdFAOCEsH41reGg8cgnT5RZ_EAG9t_8" id="58">
+        <title>Devops Sierra - Google Drive</title>
+      </bookmark>
+      <folder id="59">
+        <title>Resumes</title>
+        <bookmark href="https://drive.google.com/drive/folders/1Vir7lSBgMlgn3GZWUO7cFIj9LMNkIEE7" id="104">
+          <title>Sierra-C# - Google Drive</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://drive.google.com/drive/folders/1MemVMRgfBENcnOTLNNcgZbGX_a93zdJz" id="60">
+        <title>Data Engineer - Google Drive</title>
+      </bookmark>
+    </folder>
+    <folder id="36">
+      <title>Templates</title>
+      <bookmark href="https://docs.google.com/document/d/1z8Z62jZN3jP00lZ7j9G-jplUVfVl_BH5/edit" id="61">
+        <title>C#</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1Mcx4JAePczozHGmo8whHv2MjSox2iwgj6FSsCykAB9k/edit" id="62">
+        <title>QA</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/12Tp8ebS8adL7Zx2rT4tQlArPJXt7j9bd/edit" id="63">
+        <title>React</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1cgQx-yu4NVRR_dhdAhqMwM6ETBGUj0yb/edit" id="64">
+        <title>Software Architect</title>
+      </bookmark>
+      <bookmark href="https://tldv.io/app/meetings/64ec92687310d50013e0a2f2" id="65">
+        <title>tl;dv - Fabio Henrique Costa - Solutions Architect/Technical Product Owner (M 1022641)</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1LpvIoeJnEwB4iYyfh5L-tNv-ot3FLpxc/edit#heading=h.bkiu3h9kpult" id="66">
+        <title>C# NTH</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1-8p8J9xwEj-ZzTs3LcPtY8V3TnxT_Jxf/edit#heading=h.bkiu3h9kpult" id="67">
+        <title>FE LEAD</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1bYTUduBT6AP1fg1JrDEtcFnjU0xMKTSr/edit#heading=h.bkiu3h9kpult" id="68">
+        <title>Nicolas Troles Notes.docx - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1qaPwjBJPvNsiaHNL1I2C1tsojsdjiaCl4TGBee92qoQ/edit" id="69">
+        <title>Gustavo Restani Notes - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1kZmdUkkbnSXDn-OpGyeEUQqXO0LE4I0J/edit#heading=h.bkiu3h9kpult" id="70">
+        <title>Thiago Juan Notes.docx - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1cA6xo2K2r6xUh6KHgSJIvL9DmmhoBDoSfWq2yQOUgTg/edit" id="109">
+        <title>Thiago Cruz Notes - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/talent/inbox/0/main/id/2-MWRlODRhMTAtNDYyMi00NWZjLTk0OTItYjlhMWMzNTkxNGY3XzAxMg==?filter=unread" id="110">
+        <title>FS Schedule</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/talent/inbox/0/main/id/2-OTA5ZGZhYTEtNjI4Yy00YTk3LTk4MmUtMWZjNmVkNGQ4YTgxXzAxMg==" id="111">
+        <title>HEML Desc</title>
+      </bookmark>
+      <bookmark href="https://platform.torc.dev/#/jobs/opportunities?companyFilters=All&amp;customerOwnerFilter=All" id="112">
+        <title>Job Postings</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1B8pN9Yq8uB7o6qUsCyg3Eihvu9lSia-PR0QzFSBKZtY/edit" id="113">
+        <title>Rami Template</title>
+      </bookmark>
+    </folder>
+    <folder id="37">
+      <title>Screening</title>
+      <bookmark href="https://docs.google.com/document/d/1tZRbByHq4Fcs29gZ0izOV5MvexxBlGdrbrlHjS6NhSc/edit" id="71">
+        <title>C# Screening Questions - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/142fzVHzNG3vtyBsRmLgfmpYR7Iva7sohA44lG8LcZBE/edit" id="72">
+        <title>QA Screening Questions - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1NLS8lQEDD0jL2hRSNM8gpzuhwB3Z89LWmNQvmQiSB4o/edit" id="73">
+        <title>React Native Screening Questions - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1VkLgmhCpeQ5HOps8-6LoTBsp9KNypGABepf3_exFLpA/edit#heading=h.autmll8715f7" id="74">
+        <title>Software Architect Questions - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/u/0/folders/1OnZ2Pqv1zrCzqLxj0UZI-etxtLAKRz24" id="75">
+        <title>Screening Questions - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1s7Dbn48jk0ADC4JufeGrpaRd2PGYAyqxSCjNWJ__KFI/edit" id="76">
+        <title>Sierra Lead Frontend Screening - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1paHYcnlDer2J9Ce7BI2mFKApys8IwVzgUWSv-f8pkhU/edit" id="77">
+        <title>QA SQL Screening - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1MQ4xaBCBvoTyYej2lBeqmslimF1gXZmtLOkVTLrVazg/edit#heading=h.dn3mimuygy0i" id="78">
+        <title>Full-Stack C# (WC) Screening - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1nP7UDvBKsEAtWiwX8GszXzhsMG7-JWVHtCHD4JpsCEc/edit#heading=h.autmll8715f7" id="79">
+        <title>C# Screening Questions Sierra - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/19l3db-MOs7fE9dJygAZ7CL9rUfxp7U_0M7vIZRltfHY/edit#heading=h.i3pqwxdqmogz" id="80">
+        <title>Data Analyst Screening - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://platform.torc.dev/#/profile/johnvmv" id="114">
+        <title>johnvmv - Torc Profile</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1Sg4AHxGifd5X0t_KnfoT8l4syE6sXcScD_ytCUgnQMo/edit" id="115">
+        <title>Untitled document - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1Sg4AHxGifd5X0t_KnfoT8l4syE6sXcScD_ytCUgnQMo/edit#heading=h.gjv841j3fa74" id="116">
+        <title>Software Architect Questions (Java) - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://search.torc.dev/#/jobOpps/d7af52fa-8c11-4092-9c43-f665e7b13934/details" id="117">
+        <title>Torc Search Tool - DevOps/Site Reliability Engineer</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/in/gsilva-0270b4214/" id="118">
+        <title>Gabriel Silva | LinkedIn</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1P5pYbtjXjnvwCglD5uEaNj_SISCstW4sVs_DtsqA-aQ/edit#heading=h.yjssum5lsxcj" id="119">
+        <title>ETL Screening - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1C9DU7OHGUIngk1Vfd19fnR1Qh7g5BMjl9WezbuXHUvA/edit" id="120">
+        <title>Sierra C# Live Screening(1,5 hs) - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1glgItsGg54xVBE-N2Y1jvAWCqjPtNAi8PewUuJf0x40/edit" id="121">
+        <title>Sierra C# Live Screening - Candidates - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1HH-WpPaJ_2SpEj4Wp3Gs_X2wF1uCQwysGrFEcmb72Qk/edit" id="122">
+        <title>C# Live Screening - Screening - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1CCiTC5VF8NyP-4_egvDeZjj7LPQCRb6KfqNCdOq59Kg/edit#heading=h.ulvnq8acz4dx" id="123">
+        <title>GatherUp - Devops - Screening - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1gcfilRl8lZPBXs_26UB4xZ7YooitltRaip52tpT6BXM/edit" id="128">
+        <title>Question 1: Django Architecture - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1gcfilRl8lZPBXs_26UB4xZ7YooitltRaip52tpT6BXM/edit#heading=h.96v9snz6kjh" id="129">
+        <title>Django and Mongo Screening Questions - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1hDpmjsUZQNOpNn_m0p-Q350DeBlJMH9-vWsyLpGQB7M/edit" id="130">
+        <title>HR Acuity Screening - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1zz6rNJGpOTSH9k0JmZ3cbZ7ul2jSs5tRXqXPHUWypoQ/edit" id="131">
+        <title>HR Acuity Candidates - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1tPCOSIql7rpGymxMTIn_Ixx7AAhpaITYGN5ES_g4Pm8/edit" id="132">
+        <title>Sierra Typescript Questions - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1pti68dMje_HhxonqtngbbYmXBXKm54B1RfsIZwXjssg/edit#heading=h.2oxd0s7e935c" id="133">
+        <title>Vendori - Senior FullStack Engineer (Typescript &amp; AWS) - Screening - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1oh6KuxIfeMGhmx4AlnefJx0HxmqNLsFhkj7kKWpRyqw/edit#heading=h.zclr74k0owor" id="134">
+        <title>Untitled document - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1JERb2ZxbT1XWiPB-ITABjaIoshlf9aQ4toFLrQrS76Q/edit#heading=h.7nxg5cnt91c0" id="135">
+        <title>Geospatial Engineer / Data Scientist (ALLT) - Vetting</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1xFJK8U24pmnTp_TXbKh52oAyqV1-vCnjfq9LLQcQWE0/edit" id="136">
+        <title>Full stack Java-Python-Kotlin API Integration engineer (LUC) - Vetting - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1cDxTdiHtkhOnuDLzxbkKidR02JhNsNfCKRtmAqGFMok/edit#heading=h.ltdq9xsw4oza" id="137">
+        <title>Sierra Data Engineer Assessment - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1ogrxpEETbma8yM80fWpIiAvw8FogJqQQ1okVWCOZwOw/edit" id="142">
+        <title>Untitled document - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1vk2PdK7IImQDiseY8rdqFyZSy45Wm2d3-VM-3WXTFZM/edit#heading=h.ltdq9xsw4oza" id="143">
+        <title>Sierra Data Engineer Assessment - Matching - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/175kKqrUoi1_G6jUfdcnjiu593LAVR8aSZZyEQl44Zts/edit" id="144">
+        <title>PHP Questions - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://mail.google.com/mail/u/0/#inbox?compose=new" id="145">
+        <title>Inbox (157) - karen@teamtorc.com - torc.dev Mail</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/in/davidcsouto/" id="146">
+        <title>(7) David Costa Souto | LinkedIn</title>
+      </bookmark>
+      <bookmark href="https://platform.torc.dev/#/profile/george_vieira" id="147">
+        <title>george_vieira - Torc Profile</title>
+      </bookmark>
+    </folder>
+    <folder id="38">
+      <title>Hemlane</title>
+      <bookmark href="https://docs.google.com/document/d/13zlJfDlkgc6ML_dEQEgBNMbnBZUgyWgAjz2ApBe0Dy4/edit" id="81">
+        <title>Hemlane trello baord assessment - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1LMxFHhHoH0Olzlt8nCECBw1xty8e4niheeSfKKOxadc/edit#gid=0" id="82">
+        <title>HEMLANE Stats - Google Sheets</title>
+      </bookmark>
+      <bookmark href="https://us-16384.app.gong.io/e/c-share?tkn=1meosn7emkjwvl8a997njncv5" id="83">
+        <title>Gong | Bassel - Hemlane Assessment</title>
+      </bookmark>
+    </folder>
+    <folder id="39">
+      <title>CoderbyteAssessments</title>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-2d1ewujz5a" id="84">
+        <title>Coderbyte | Data Engineer (FLW) - First Call</title>
+      </bookmark>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-ucvjh3e1yz#" id="85">
+        <title>Coderbyte | Senior Fullstack (Ruby &amp; React)(HEM)</title>
+      </bookmark>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-l2ckbf5" id="86">
+        <title>Coderbyte | Mobile Engineer - Kotlin (WSN) Ver 3</title>
+      </bookmark>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-nppcleahre#" id="87">
+        <title>Coderbyte | Salesforce Marketing Developer (PPG)</title>
+      </bookmark>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-vb9yuoenrf#" id="88">
+        <title>Coderbyte | Senior Frontend Engineer (Angular) (RWL)</title>
+      </bookmark>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-vb9yuoenrf" id="89">
+        <title>Coderbyte | Senior Frontend Engineer (Angular) (RWL)</title>
+      </bookmark>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-zx885tozlc#" id="90">
+        <title>Coderbyte | Software Engineer (Java &amp; AWS) (PEO) V2</title>
+      </bookmark>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-mty0riwxje#" id="91">
+        <title>Coderbyte | ServiceNow Business Analyst (PCL)</title>
+      </bookmark>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-a211doydti#" id="92">
+        <title>Coderbyte | ServiceNow Developer (ITSM CMDB REST) (PCL)</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://tldv.io/app" id="40">
+      <title>tl;dv - app</title>
+    </bookmark>
+    <folder id="41">
+      <title>Randstad</title>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1atUZ7fqxR6osNEhwT3MB9rljbl4XyEJFiRjf9T-_yOI/edit#gid=1702441708" id="93">
+        <title>Torc &amp; Randstad Matching - Google Sheets</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1mqMwcfKciBdAJe-ju5B4fxc_453fErplZvXNdhJeKno/edit#gid=1915790591" id="94">
+        <title>Randstad Matching &amp; Stats - Google Sheets</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/folders/10JnsCp8BUB3TICqAhDOs0DaENBOEhkXd" id="95">
+        <title>M 1022641 - Technical Product Owner - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1atUZ7fqxR6osNEhwT3MB9rljbl4XyEJFiRjf9T-_yOI/edit?pli=1#gid=1702441708" id="96">
+        <title>Torc &amp; Randstad Matching - Google Sheets</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/talent/inbox/0/main/id/2-ZDNmNmU0NGQtOGI3Mi00YzBjLThkZDMtNzI3YzQ4MGY5ZDcwXzAxMw==" id="97">
+        <title>Kernel linux</title>
+      </bookmark>
+      <bookmark href="https://recruiterflow.com/recruitingfromscratch/jobs/1981" id="98">
+        <title>Apply to Senior Software Engineering Manager, Remote at Recruiting From Scratch</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1c5ONVQK0bwJy32PBd8uIGGF4oDNYeHlEUR6xYWFBn00/edit#gid=0" id="42">
+      <title>Placement Data - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/document/d/1Ph1MM27IMhcTesr0K-rnGLJCmTNRRmNE3CPYIrGolVg/edit" id="43">
+      <title>Product Wishlist - Google Docs</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1U8HkyeCoqbQgIeS2g94FTnafP7DfuHU3Va5g7Lt0KsA/edit#gid=790763898" id="44">
+      <title>Karen Invoice - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1D93Rprk2qno6Oh-nx8TCrvDxO7ClwCq3ZhguJbH3xHk/edit#gid=0" id="105">
+      <title>Matching Candidates Status - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/drive/folders/1PkXspAmf-qbKFGml3OvEh7NOMvv4gUnU" id="106">
+      <title>Resumes - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1btHh52C0cd2uYNfAGqDCSr9WRHzBtx9pJqhyc_r2eGA/edit#gid=0" id="107">
+      <title>Sierra Interactive - Torc Candidates Tracker - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://script.google.com/u/0/home/start" id="108">
+      <title>Getting Started - Apps Script</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/document/d/1C9DU7OHGUIngk1Vfd19fnR1Qh7g5BMjl9WezbuXHUvA/edit#heading=h.futqvravebmi" id="124">
+      <title>Sierra C# Live Screening(One hour) - Google Docs</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1Z4Pc4KzUZpgIcipw7ohdExXh38jCoSXfyLSvOaif1nk/edit#gid=0" id="125">
+      <title>Interview Tracker - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/document/d/1hpAyz_SV8haLZw73hYSCXkE0vZ7kObfuWV5z_2xqBbk/edit#heading=h.vqkthnv1jbqk" id="126">
+      <title>Sierra Backend Screening - Candidates - Google Docs</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1fsD2rGNO8OpJDsn_-_pn7l-qiAEQIXYH777EdH0mhiI/edit#gid=0" id="127">
+      <title>Vendori - MyLocalCopy - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1iCNyVDv20S3RN1it-Ph4J1Lkg6qOBV4me_xlEbE2F10/edit#gid=0" id="138">
+      <title>Candidates Feedback - Karen - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/17nBETU-HD6IRTCtIlVkGXYmo2GMj1dNceSIPxs9C6MM/edit?gid=0#gid=0" id="139">
+      <title>Monthly Rates - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1qR3sWySULP3MjyDJctUmUZG6dLBCii_hs4Y0b0jVwzM/edit?gid=0#gid=0" id="140">
+      <title>Sierra C# Candidates Pipeline - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1hziiL6J4zE6GN1y4cDCc38Z79etgoyHZeNIHDjIXwAc/edit?gid=442611283#gid=442611283" id="141">
+      <title>Karen - OOO - 2025 - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1c0GCDE_UZDD-KrO5Y-b-bL1WmvzeWYQraUTzdAvxoEs/edit?gid=1910190408#gid=1910190408" id="148">
+      <title>Fidelity Assessments - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1rDMLRiyvQs67CT05RLBtUjyJg_1X7ygEjr3fFy20keY/edit?ouid=101529135796494273639&amp;usp=docs_home&amp;ths=true" id="149">
+      <title>Torc Platforms Jobs - Karen Consoli - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/document/d/1KdCTs5AgixG3eT4e6pSlYSJu254Awbdu9-br4M41JP4/edit?tab=t.0" id="150">
+      <title>Talent Activation User Guide - Torc Platform - Google Docs</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/17tPraZAWiRU9gUIqdYCUr2TOixEEbmYo2C1q0Hi6iew/edit?gid=0#gid=0" id="151">
+      <title>Sourcing Tracker - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1zaBZb4zJqftGHaHRnLGuOKD27Ox26AarCzWF4mLGlbE/edit?gid=488642903#gid=488642903" id="152">
+      <title>BoA Assessments - Google Sheets</title>
+    </bookmark>
+    <folder id="153">
+      <title>Personal</title>
+      <folder id="154">
+        <title>Diseño</title>
+        <bookmark href="https://w3layouts.com/" id="164">
+          <title>W3Layouts</title>
+        </bookmark>
+        <bookmark href="https://machinimasound.com/music/genre/trailer-epic/" id="165">
+          <title>Trailer &amp; Epic - Royalty Free Music - Machinimasound</title>
+        </bookmark>
+        <bookmark href="https://coolors.co/d7263d-f46036-2e294e-1b998b-c5d86d" id="166">
+          <title>Generate - Coolors.co</title>
+        </bookmark>
+      </folder>
+      <folder id="155">
+        <title>Photoshop</title>
+        <bookmark href="https://freedownloadpsd.com/" id="167">
+          <title>FreeDownloadPSD.com | Premium Quality Free PSD Templates</title>
+        </bookmark>
+        <bookmark href="https://psdfreebies.com/" id="168">
+          <title>PSDFreebies.com | Free Exclusive PSD Templates</title>
+        </bookmark>
+      </folder>
+      <folder id="156">
+        <title>CV</title>
+        <bookmark href="https://themeforest.net/item/rewall-personal-portfolio-template/34316546" id="169">
+          <title>Rewall | Personal Portfolio Template by Frenify | ThemeForest</title>
+        </bookmark>
+      </folder>
+      <folder id="157">
+        <title>Jobs</title>
+        <bookmark href="https://azumo.com/outsourced-team" id="170">
+          <title>Outsourced Software Developers for Web, Mobile, Data, and Bots | Azumo</title>
+        </bookmark>
+        <bookmark href="https://careers.turing.com/" id="171">
+          <title>Turing Jobs | Apply to Best Remote Opportunities</title>
+        </bookmark>
+        <bookmark href="https://www.toptal.com/careers" id="172">
+          <title>Careers at Toptal</title>
+        </bookmark>
+        <bookmark href="https://codementor.notion.site/Hi-we-re-Arc-and-Codementor-1d506da9d8d64e83b44eaf0aa4a79a0f" id="173">
+          <title>Hi, we&apos;re Arc and Codementor</title>
+        </bookmark>
+        <bookmark href="https://automattic.com/work-with-us/" id="174">
+          <title>Work With Us – Automattic</title>
+        </bookmark>
+        <bookmark href="https://zapier.com/jobs" id="175">
+          <title>Job openings at Zapier | Work from anywhere</title>
+        </bookmark>
+        <bookmark href="https://www.epam.com/careers/epam-latin-america?utm_source=google&amp;utm_medium=discovery&amp;utm_campaign=ta&amp;utm_term=ar&amp;utm_content=eng&amp;wbraid=Ck0KCAjw8-OhBhBhEj0A9moRvz0HBJm9W8f_PID_C7M_92taCOwyxoIOqPRB4MqgFAU1tSNsPpm60SgSOijhxD5YV7ZaPQK9iSKeGgLK0g" id="176">
+          <title>Job opportunities in Argentina, Brazil, Chile, Co…</title>
+        </bookmark>
+        <bookmark href="https://search.torc.dev/#/jobOpps/8474878b-f1de-4c56-8c35-b296b48c8b1d/details" id="177">
+          <title>Torc Search Tool</title>
+        </bookmark>
+        <bookmark href="https://search.torc.dev/#/jobOpps/aea17b54-0429-474c-91a9-7f1a916543ad/details" id="178">
+          <title>Torc Search Tool</title>
+        </bookmark>
+        <bookmark href="https://search.torc.dev/#/jobOpps/d0c3fe74-1011-4b22-bc73-72fd40099c49/details" id="179">
+          <title>Torc Search Tool</title>
+        </bookmark>
+        <bookmark href="https://boards.greenhouse.io/braintrustcore/jobs/4948230004" id="186">
+          <title>Job Application for Product Manager - Direct Hire at Braintrust Internal</title>
+        </bookmark>
+        <bookmark href="https://apply.workable.com/devsu/j/9BA97F5A36/apply/" id="187">
+          <title>Technical Project Manager - Devsu</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://www.youtube.com/" id="158">
+        <title>YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.netflix.com/browse" id="159">
+        <title>Netflix</title>
+      </bookmark>
+      <bookmark href="https://www.facebook.com/" id="160">
+        <title>Facebook</title>
+      </bookmark>
+      <bookmark href="https://colorhunt.co/palette/18612" id="161">
+        <title>Color Palette: #18612 - Color Hunt</title>
+      </bookmark>
+      <bookmark href="https://ratamundo.com/" id="162">
+        <title>Ratamundo</title>
+      </bookmark>
+      <bookmark href="https://themeforest.net/" id="163">
+        <title>Envato</title>
+      </bookmark>
+      <bookmark href="https://www.samsung.com/ar/offer/" id="180">
+        <title>Samsung offers</title>
+      </bookmark>
+      <bookmark href="https://www.correoargentino.com.ar/formularios/ondnc" id="181">
+        <title>Track &amp; Trace - Correspondencia con origen nacional y destino nacional | Correo Argentino</title>
+      </bookmark>
+      <bookmark href="https://www.espanol.skyscanner.com/?locale=es-MX&amp;currency=ARS&amp;market=AR&amp;_ga=2.135400689.1567457219.1498183745-2091614065.1494998010" id="182">
+        <title>Sky</title>
+      </bookmark>
+      <bookmark href="http://mysims4blog.blogspot.mx/" id="183">
+        <title>My Sims 4 Blog</title>
+      </bookmark>
+      <bookmark href="https://www.bookdepository.com/search?searchTerm=Los+simpsns+y+la+filosofia&amp;search=Find+book" id="184">
+        <title>Book Depository</title>
+      </bookmark>
+      <bookmark href="https://ais.usvisa-info.com/es-ar/niv/users/sign_in" id="185">
+        <title>Iniciar sesión o crear una cuenta | Official U.S. Department of State Visa Appointment Service | Argentina | Spanish</title>
+      </bookmark>
+      <bookmark href="https://www.techseries.dev/products/tech-interview-pro/categories" id="188">
+        <title>TechSeries - Premium Online Courses for Software Engineering</title>
+      </bookmark>
+      <bookmark href="https://chatgptsplitter.com/" id="189">
+        <title>ChatGPT Splitter</title>
+      </bookmark>
+      <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="190">
+        <title></title>
+      </bookmark>
+      <folder id="191">
+        <title>UAI</title>
+        <bookmark href="https://drive.google.com/folderview?id=0B9ua_VbYafLyfmM1SmNJRXhxZjllZWRwRERyZDBQQUVqdDd2Ylp5U3N4RFBnTDBTT2NBRk0&amp;usp=sharing_eid" id="193">
+          <title>4º año</title>
+        </bookmark>
+        <bookmark href="https://www.dropbox.com/home/Tecnolog%C3%ADa%20de%20Lomas" id="194">
+          <title>Tecnología</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.linkedin.com/in/larissa-taw-rumiana-de-oliveira-104b4284/details/experience/" id="192">
+        <title>(2) Experience | Larissa Taw Rumiana de Oliveira | LinkedIn</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://www.worldtimebuddy.com/" id="23">
+    <title>Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.</title>
+  </bookmark>
+  <folder id="24">
+    <title>Jobs</title>
+    <bookmark href="https://azumo.com/outsourced-team" id="45">
+      <title>Outsourced Software Developers for Web, Mobile, Data, and Bots | Azumo</title>
+    </bookmark>
+    <bookmark href="https://careers.turing.com/" id="46">
+      <title>Turing Jobs | Apply to Best Remote Opportunities</title>
+    </bookmark>
+    <bookmark href="https://www.toptal.com/careers" id="47">
+      <title>Careers at Toptal</title>
+    </bookmark>
+    <bookmark href="https://codementor.notion.site/Hi-we-re-Arc-and-Codementor-1d506da9d8d64e83b44eaf0aa4a79a0f" id="48">
+      <title>Hi, we&apos;re Arc and Codementor</title>
+    </bookmark>
+    <bookmark href="https://automattic.com/work-with-us/" id="49">
+      <title>Work With Us – Automattic</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-6wpdel0sfk" id="50">
+    <title>Coderbyte | Backend Node JS (LLM &amp; Claude Code)(HAM)</title>
+  </bookmark>
+</folder>
+<folder id="1">
+  <title>Other Bookmarks</title>
+  <bookmark href="https://www.abebooks.com/servlet/SearchResults?sortby=17&amp;tn=decorato+medaglia+bronzo+giacomo+balzarini&amp;pt=mag&amp;cm_sp=pan-_-srp-_-ptmag" id="3">
+    <title>Decorato Medaglia Bronzo Giacomo Balzarini: Magazines &amp; Periodicals - AbeBooks</title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/file/d/1rJwPyd2ZTTUDfW7JthIkXzdj0BsoTsFX/view" id="4">
+    <title>Mauricio Borges Notes.docx - Google Drive</title>
+  </bookmark>
+</folder>
+</xbel>
