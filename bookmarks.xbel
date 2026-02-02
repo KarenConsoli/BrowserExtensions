@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :211: for Floccus bookmark sync browser extension -->
+<!--- highestId :212: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -414,6 +414,9 @@
     </bookmark>
     <bookmark href="https://docs.google.com/spreadsheets/d/1c3MGfiEOQ3CTIxwzg4_eBZYMDjsfJUxUxzP_Qfm8QJ4/edit?gid=2109772343#gid=2109772343" id="209">
       <title>ALL Placements by Start Date - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1rdCMAXXVBw4hm9o6l9SjFjxkbypF59azNullaoOMukY/edit?gid=442611283#gid=442611283" id="212">
+      <title>Karen - OOO - 2026 - Google Sheets</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.worldtimebuddy.com/" id="23">
