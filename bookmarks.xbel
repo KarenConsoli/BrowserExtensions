@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :217: for Floccus bookmark sync browser extension -->
+<!--- highestId :218: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -432,6 +432,9 @@
     </bookmark>
     <bookmark href="https://docs.google.com/spreadsheets/d/1SnuKbPI3AuyfTJuhSy8Fi7BHTwEq7iVvMO2q38Oouyg/edit?pli=1" id="216">
       <title>External Sourcing Tracker Team - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1NAzN1mNIGIpfXg3_8Rn5WpEkN_pYiRmKiE9FrqiHfXE/edit?gid=457828886#gid=457828886" id="218">
+      <title>RD Internal roles Karen - Google Sheets</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.worldtimebuddy.com/" id="23">
