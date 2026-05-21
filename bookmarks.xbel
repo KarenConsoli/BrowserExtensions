@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :232: for Floccus bookmark sync browser extension -->
+<!--- highestId :233: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -312,6 +312,9 @@
     </folder>
     <folder id="39">
       <title>CoderbyteAssessments</title>
+      <bookmark href="https://torc.coderbyte.com/dashboard/torc-8d513:technical-assessment-k0ask5wfrq#" id="233">
+        <title>QA Engineer Hybrid (MCN)</title>
+      </bookmark>
     </folder>
     <bookmark href="https://tldv.io/app" id="40">
       <title>tl;dv - app</title>
